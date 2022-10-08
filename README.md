@@ -7,6 +7,11 @@
 - robotics
 - AI
 
+### Tools of the trade
+- visual studio code
+- Git
+- Docker
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kingpinzs&count_private=true&theme=tokyonight&showicons=true)]()
 
